@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This blog is created for the purpose of completing ST 558 at North Carolina State University. It may be transitioned to a personal website in the future!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Carter Hall is a first-year Ph.D. student in Statistics at North Carolina State University. He completed his undergraduate education at the University of North Carolina at Chapel Hill, majoring in Statistics and Analytics, as well as Mathematics. (**GO HEELS!**)
