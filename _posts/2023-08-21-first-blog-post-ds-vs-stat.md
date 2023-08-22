@@ -4,11 +4,11 @@ Hello, and welcome to my blog! This blog satisfies a requirement of the course *
 
 In this post, I will be juxtaposing two popular career paths for those with degrees/training in statistics -- data scientist and statistician. More information regarding these career paths can be found at links provided below:
 
-![Indeed Article](https://www.indeed.com/career-advice/finding-a-job/data-scientist-vs-statistician)
+[Indeed Article](https://www.indeed.com/career-advice/finding-a-job/data-scientist-vs-statistician)
 
-![SimpliLearn Article](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article)
+[SimpliLearn Article](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article)
 
-![ScientistCafe Chapter](https://scientistcafe.com/ids/comparison-between-statistician-and-data-scientist.html)
+[ScientistCafe Chapter](https://scientistcafe.com/ids/comparison-between-statistician-and-data-scientist.html)
 
 ### Question 1: What do you think being a data scientist is about?
 
