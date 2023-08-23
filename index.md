@@ -1,4 +1,3 @@
-
 <img src="www/dist_image.png" alt="Dist Chart" title="Relationship between Common Distributions in Statistics" height="400" align="right"/>
 
 # Welcome to My Blog!
