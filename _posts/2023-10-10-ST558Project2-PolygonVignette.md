@@ -2,7 +2,7 @@
 
 For this blog post, I will chronicle my experiences leveraging the `httr` package
 in `R` to query stock ticker data from the `polygon` API, a free API available at
-[polygon.io](polygon.io).
+[polygon.io](https://polygon.io).
 
 The vignette created to accompany this blog post can be found [here](https://halljc76.github.io/polygonVignette), and contains a much more thorough explanation of the packages, functions, and analysis. I highly encourage the reader to check it out, as it demonstrates how `R` can interface with online resources to perform data analysis, rather than solely relying on in-house or locally stored alternatives!
 
