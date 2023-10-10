@@ -32,6 +32,6 @@ While the data retrieved from the API was *somewhat* difficult to work with, in 
 
 ### Links
 
-Vignette: [link](https://halljc76.github.io/polygonVignette)
+Vignette: [here](https://halljc76.github.io/polygonVignette)
 
 GitHub Repository: [link](https://github.com/halljc76/polygonVignette)
